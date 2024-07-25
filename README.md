@@ -6,4 +6,4 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![Demo Image](https://github.com/smit012/ML-Salary-Prediction/blob/main/Explore_page.png)
+![Demo Image](https://github.com/smit012/Movies-and-TV-Shows-on-Netflix-2019-by-smit/blob/main/Dashboard%201.png)
